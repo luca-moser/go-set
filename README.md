@@ -1,4 +1,4 @@
-# Go Set [![Build Status](https://travis-ci.org/luca-moser/go-set.svg?branch=master)](https://travis-ci.org/luca-moser/go-set)
+# Go Set [![Build Status](https://travis-ci.org/luca-moser/set.svg?branch=master)](https://travis-ci.org/luca-moser/set)
 
 A simple and thread-safe set in Go.
 
